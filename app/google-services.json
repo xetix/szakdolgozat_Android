@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290028249829",
+    "firebase_url": "https://szakdolgozat-7f935-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "szakdolgozat-7f935",
+    "storage_bucket": "szakdolgozat-7f935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290028249829:android:b94d4e3fde2d6de5c7aa0c",
+        "android_client_info": {
+          "package_name": "hu.unideb.ik.kovacsgergo.szakdolgozat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290028249829-sb8v5hj5hpqs9dke39b3r97vou15jvom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKFhJq3xxuSRFEfpIrpd4BchmbWriVB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290028249829-sb8v5hj5hpqs9dke39b3r97vou15jvom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
